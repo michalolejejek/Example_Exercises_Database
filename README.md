@@ -12,8 +12,8 @@ Do wykonania zadań użyłem następujących technologii:
   
 
 # Raport
-Każde zadanie znajduje się w podfolderze wraz z nazwą danego danego zadania.
+Zadania Liga oraz Wypożyczalnia posiadają w podfolderze wraz z nazwą danego danego zadania.
+W pozostałych zakomentowałem kod w pliku.
 
-## Liga piłkarska
 
 
